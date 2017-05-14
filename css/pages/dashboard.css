@@ -12,9 +12,9 @@ Bootstrap Admin Template by EGrappler.com
 }
 
 .shortcuts .shortcut {
-    width: 22.50%;
+    width: 15%;
     display: inline-block;
-    padding: 12px 0;
+    padding: 5px 0;
     margin: 0 .9% 1em;
     vertical-align: top;
     text-decoration: none;
@@ -25,7 +25,7 @@ Bootstrap Admin Template by EGrappler.com
 .shortcuts .shortcut .shortcut-icon {
     margin-top: .25em;
     margin-bottom: .25em;
-    font-size: 32px;
+    font-size: 20px;
     color: #545454;
 }
 
@@ -45,6 +45,42 @@ Bootstrap Admin Template by EGrappler.com
     display: block;
     font-weight: 400;
     color: #545454;
+}
+
+.shortcuts button.btn.btn-success {
+    width: 15%;
+    margin: 15px 12px 15px 12px;
+}
+
+.shortcuts .box {
+    background-color: white;
+    box-shadow: 1px 1px 1px #b1b0b0;
+    margin-bottom: 15px;
+    padding-top: 10px;
+}
+
+.shortcuts .box p {
+    font-size: 36px;
+    padding-left: 10px;
+    float: left;
+    margin-right: -36px;
+    color: #410093;
+}
+
+.no-padding-left {
+    padding-left: 0 !important;
+}
+
+.no-padding-right {
+    padding-right: 0 !important;
+}
+
+.no-margin-left {
+    margin-left: 0 !important;
+}
+
+.no-margin-right {
+    margin-right: 0 !important;
 }
 
 
